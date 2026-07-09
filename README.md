@@ -41,25 +41,25 @@ When I'm not coding, I'm probably exploring new tools, refining a side project, 
 
 ### 📌 Featured Projects
 
-<!-- Replace the placeholders below with your real project details -->
+<!-- Replace REPO_NAME and the descriptions/tech badges with your real project details -->
 
 <table>
   <tr>
     <td width="50%">
-      <h4>🔹 Project Name One</h4>
+      <h4>🔹 Gigly</h4>
       <p>One-line description of what this project does and the problem it solves.</p>
       <p>
         <img src="https://img.shields.io/badge/tech-here-blue?style=flat-square" />
       </p>
-      <a href="https://github.com/kibriya41/REPO_NAME">🔗 Repo</a> · <a href="#">🌐 Live Demo</a>
+      <a href="https://github.com/kibriya41/REPO_NAME">🔗 Repo</a> · <a href="https://gigly-gamma.vercel.app/">🌐 Live Demo</a>
     </td>
     <td width="50%">
-      <h4>🔹 Project Name Two</h4>
+      <h4>🔹 Tiles</h4>
       <p>One-line description of what this project does and the problem it solves.</p>
       <p>
         <img src="https://img.shields.io/badge/tech-here-blue?style=flat-square" />
       </p>
-      <a href="https://github.com/kibriya41/REPO_NAME">🔗 Repo</a> · <a href="#">🌐 Live Demo</a>
+      <a href="https://github.com/kibriya41/REPO_NAME">🔗 Repo</a> · <a href="https://tiles-tu4d.onrender.com">🌐 Live Demo</a>
     </td>
   </tr>
   <tr>
