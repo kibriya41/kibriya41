@@ -41,35 +41,42 @@ When I'm not coding, I'm probably exploring new tools, refining a side project, 
 
 ### 📌 Featured Projects
 
-<!-- Replace REPO_NAME and the descriptions/tech badges with your real project details -->
-
 <table>
   <tr>
     <td width="50%">
       <h4>🔹 Gigly</h4>
-      <p>One-line description of what this project does and the problem it solves.</p>
+      <img src="./assets/gigly-banner.png" width="100%" />
+      <p>A full-stack freelance marketplace connecting clients and freelancers — post tasks, browse gigs, submit proposals, and manage secure payments all in one platform.</p>
       <p>
-        <img src="https://img.shields.io/badge/tech-here-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
       </p>
-      <a href="https://github.com/kibriya41/REPO_NAME">🔗 Repo</a> · <a href="https://gigly-gamma.vercel.app/">🌐 Live Demo</a>
+      <a href="https://github.com/KIBRIYAamit/gigly">🔗 Repo</a> · <a href="https://gigly-gamma.vercel.app/">🌐 Live Demo</a>
     </td>
     <td width="50%">
-      <h4>🔹 Tiles</h4>
-      <p>One-line description of what this project does and the problem it solves.</p>
+      <h4>🔹 TutorFlux</h4>
+      <img src="./assets/tutorflux-banner.png" width="100%" />
+      <p>A tutor-booking platform with smart scheduling that eliminates time-slot conflicts — students discover verified tutors, book sessions, and track bookings from a personalized dashboard.</p>
       <p>
-        <img src="https://img.shields.io/badge/tech-here-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
       </p>
-      <a href="https://github.com/kibriya41/REPO_NAME">🔗 Repo</a> · <a href="https://tiles-tu4d.onrender.com">🌐 Live Demo</a>
+      <a href="https://github.com/kibriya41/TutorFlux">🔗 Repo</a> · <a href="#">🌐 Live Demo</a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h4>🔹 Project Name Three</h4>
-      <p>One-line description of what this project does and the problem it solves.</p>
+      <h4>🔹 Tile Aesthetic</h4>
+      <img src="./assets/tile-aesthetic-banner.png" width="100%" />
+      <p>A premium tile marketplace for browsing curated collections by category, viewing product details, and managing a customer profile — built for a smooth shopping experience.</p>
       <p>
-        <img src="https://img.shields.io/badge/tech-here-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
       </p>
-      <a href="https://github.com/kibriya41/REPO_NAME">🔗 Repo</a> · <a href="#">🌐 Live Demo</a>
+      <a href="https://github.com/kibriya41/keen-keeper">🔗 Repo</a> · <a href="https://tiles-tu4d.onrender.com">🌐 Live Demo</a>
     </td>
     <td width="50%"></td>
   </tr>
